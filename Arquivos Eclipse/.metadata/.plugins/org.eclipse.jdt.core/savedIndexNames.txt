@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/pedrinho/Faculdade/Aula-Java/Arquivos Eclipse/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+1610630043.index
+4293249282.index
